@@ -11,6 +11,7 @@ def info():
         'hostname': socket.gethostname(),
         'deployed_on': 'Kubernetes ^^',
         'env': 'prod',
+        'who': 'is there?!',
         'app_name': 'security-app',
     })
 
